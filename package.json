@@ -1,0 +1,19 @@
+{
+  "name": "malgudi-hut-kudlu-gate-website",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://alokit-bot.github.io/malgudi-hut-kudlu-gate-website",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {}
+}
